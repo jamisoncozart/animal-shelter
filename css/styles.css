@@ -1,0 +1,29 @@
+body {
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin: 20px;
+}
+
+.column {
+  float: left;
+  width: 28%;
+  margin: 10px;
+  background-color: #cecece;
+  padding: 20px;
+  height: 450px;
+}
+
+img {
+  width: 300px;
+  height: auto;
+}
+
+.column h2 {
+  text-align: center;
+}
+
+#header {
+  text-align: center;
+  background-color: #cecece;
+  padding: 20px;
+  margin: 10px;
+}
